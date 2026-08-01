@@ -1,0 +1,27 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Environment files
+backend/.env
+frontend/.env
+.env
+
+# Build folders
+frontend/dist/
+backend/dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime files
+*.pid
